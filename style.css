@@ -31,4 +31,19 @@ body {
     padding: 20px;
     font-size: 14px;
   }
+  .product-gallery {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    padding: 20px;
+  }
+  
+  .product {
+    background: #ffe4e1;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+  }
   
